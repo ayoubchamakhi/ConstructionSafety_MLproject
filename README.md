@@ -3,7 +3,7 @@
 # 🏗️ Real-Time Object Detection for Construction Workers using YOLOv9  
 **A Machine Learning Project**  
 *Supervised by Dr. Nabil Chaabene*  
-🔗 [Project Presentation](https://www.canva.com/design/DAGCGxwJQpo/AE-u1nBwy_46SF7qF8ZLJQ/view?utm_content=DAGCGxwJQpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdfef3dbaf6))
+🔗 [Project Presentation](https://www.canva.com/design/DAGCGxwJQpo/AE-u1nBwy_46SF7qF8ZLJQ/view?utm_content=DAGCGxwJQpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdfef3dbaf6)
 
 ### 📌 Project Overview  
 This project focuses on implementing **real-time object detection** to ensure the safety of construction workers by identifying personal protective equipment (PPE) in live video streams. The solution leverages **YOLOv9 (You Only Look Once)** – a state-of-the-art object detection algorithm that detects objects within images and video feeds efficiently.
