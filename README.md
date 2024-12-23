@@ -72,8 +72,8 @@ This project focuses on implementing **real-time object detection** to ensure th
 ## 📥 Installation & Setup  
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/username/ConstructionSafety_MLproject.git
+cd ConstructionSafety_MLproject
 ```  
 
 ### 2. Install Required Libraries  
