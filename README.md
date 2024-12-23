@@ -1,10 +1,9 @@
-Here's a comprehensive README for your GitHub project based on the PDF content:
 
----
 
 # 🏗️ Real-Time Object Detection for Construction Workers using YOLOv9  
 **A Machine Learning Project**  
 *Supervised by Dr. Nabil Chaabene*  
+🔗 [Project Presentation](https://www.canva.com/design/DAGCGxwJQpo/AE-u1nBwy_46SF7qF8ZLJQ/view?utm_content=DAGCGxwJQpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdfef3dbaf6))
 
 ### 📌 Project Overview  
 This project focuses on implementing **real-time object detection** to ensure the safety of construction workers by identifying personal protective equipment (PPE) in live video streams. The solution leverages **YOLOv9 (You Only Look Once)** – a state-of-the-art object detection algorithm that detects objects within images and video feeds efficiently.
@@ -114,7 +113,3 @@ python detect.py --source 0  # 0 for webcam, or path to video file
 - [YouTube - Neural Network Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk)  
 - [YouTube - Object Detection 101 Course](https://www.youtube.com/watch?v=WgPbbWmnXJ8)  
 - [YouTube - How YOLO Works](https://www.youtube.com/watch?v=svn9-xV7wjk)  
-
----
-
-Let me know if you'd like to add more detailed code snippets or explanations for specific sections!
